@@ -167,8 +167,8 @@ camunda:
         history-level: AUDIT
         history-level-default: AUDIT
         admin-user:
-            id: Admin
-            password: ${CAMUNDA_BPM_ADMIN-USER_PASSWORD}
+            id: admin
+            password: admin
             first-name: Admin account
 
 # ==================
